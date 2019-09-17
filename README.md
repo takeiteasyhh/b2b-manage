@@ -1,3 +1,7 @@
+vue.js v2.0+ element ui+ vuex+axios+vue-router
+开发的后台管理系统
+包括商品新增编辑上下架，商家管理，订单管理
+
 # news-management
 
 ## Project setup
